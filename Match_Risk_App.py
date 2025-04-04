@@ -1,7 +1,6 @@
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
 from textblob import TextBlob
 import numpy as np

@@ -1,13 +1,7 @@
 
 import streamlit as st
 import pandas as pd
-import seaborn as sns
-from textblob import TextBlob
 import numpy as np
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.preprocessing import LabelEncoder
-from wordcloud import WordCloud
-from datetime import datetime
 import warnings
 
 # Optional survival analysis
